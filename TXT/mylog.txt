@@ -18,3 +18,11 @@ ZCZC W00 45 L82 Reading Book (paper or online)
 ZCZC W00 120 L82 Reading Book The Linux development platform: configuring, using, and maintaining a complete programming environment by Rafeeq Ur Rehman and Christopher Paul
 ZCZC W00 30 L08 AsDos: Asking about Linux and About next assignments on week 01
 ZCZC W00 90 L80 Waching: Youtube about Linux Operating Systems
+ZCZC W01 110 L02 ZOOM meetings related (OS first meeting W01)
+ZCZC W01 30 L11 Assignment #01
+ZCZC W01 40 L12 Assignment #02
+ZCZC W01 90 L13 Assignment #03
+ZCZC W01 25 L31 VirtualBox: install VirtualBox, debian 11
+ZCZC W01 05 L05 Quiz W00
+ZCZC W01 50 L28 installing and setup SSH, putty, winscp
+ZCZC W01 15 L25 Scripting for forum Week 01
