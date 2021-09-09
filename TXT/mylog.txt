@@ -26,3 +26,7 @@ ZCZC W01 25 L31 VirtualBox: install VirtualBox, debian 11
 ZCZC W01 05 L05 Quiz W00
 ZCZC W01 50 L28 installing and setup SSH, putty, winscp
 ZCZC W01 15 L25 Scripting for forum Week 01
+ZCZC W01 30 L14 Assignment #04
+ZCZC W01 25 L15 Assignment #05
+ZCZC W01 05 L16 Assignment #06
+ZCZC W01 05 L17 Assignment #07
