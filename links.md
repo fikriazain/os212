@@ -27,3 +27,6 @@ Diberikan contoh penggunaan command tersebut beserta output yang di hasilkannya.
 
 5. [Learn Markdown](https://www.markdownguide.org/)  
 Link ini yang membuat github page saya menjadi lebih bagus. Pada link ini terdapat syntax dan cheat sheet yang mungkin akan digunakan. Untuk pemula dalam markdown, ini sangat berguna.
+
+6. [SORT Command Linux](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)  
+Link ini sangat berguna untuk salah satu materi yang akan keluar di kuis besok, yaitu command SORT. Pada link ini dijelaskan bagaimana commandnya beserta output yang dikeluarkan. Penjelasannya sangat jelas dan mudah untuk dipahami walaupun bahasa inggris.
