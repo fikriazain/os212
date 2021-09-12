@@ -25,3 +25,5 @@ Link ini berguna untuk seseorang yang bingung kapan kita memakai grep, awk, atau
 Link ini sangat menarik karena kita diberitahu apa perbedaan diantara ketiga command tersebut dan kapan kita menggunakannya.
 Diberikan contoh penggunaan command tersebut beserta output yang di hasilkannya.
 
+5. [Learn Markdown](https://www.markdownguide.org/)  
+Link ini yang membuat github page saya menjadi lebih bagus. Pada link ini terdapat syntax dan cheat sheet yang mungkin akan digunakan. Untuk pemula dalam markdown, ini sangat berguna.
