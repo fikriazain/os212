@@ -19,6 +19,7 @@ ZCZC W00 120 L82 Reading Book The Linux development platform: configuring, using
 ZCZC W00 30 L08 AsDos: Asking about Linux and About next assignments on week 01
 ZCZC W00 90 L80 Waching: Youtube about Linux Operating Systems
 ZCZC W01 110 L02 ZOOM meetings related (OS first meeting W01)
+ZCZC W01 45 L02 ZOOM meetings related (OS second meeting W01)
 ZCZC W01 30 L11 Assignment #01
 ZCZC W01 40 L12 Assignment #02
 ZCZC W01 90 L13 Assignment #03
@@ -30,3 +31,6 @@ ZCZC W01 30 L14 Assignment #04
 ZCZC W01 25 L15 Assignment #05
 ZCZC W01 05 L16 Assignment #06
 ZCZC W01 05 L17 Assignment #07
+ZCZC W01 133 L24 Study about SED, AWK, and Bash
+ZCZC W01 40 L25 Do some Scripting for practice OS
+
