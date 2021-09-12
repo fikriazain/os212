@@ -20,7 +20,7 @@ Saya belajar command grep melalui situs ini. Situs ini memberikan penjelasan yan
 Disediakan juga contoh ouput dan memberikan contoh command yang akan digunakan juga.  
 Untuk pemula seperti saya dalam hal linux, ini merupakan situs yang bagus untuk pemula.  
 
-4. [Grep vs Awk vs Sed Command](https://techviewleo.com/awk-vs-grep-vs-sed-commands-in-linux/)
+4. [Grep vs Awk vs Sed Command](https://techviewleo.com/awk-vs-grep-vs-sed-commands-in-linux/)  
 Link ini berguna untuk seseorang yang bingung kapan kita memakai grep, awk, atau sed dalam mengakses file.
 Link ini sangat menarik karena kita diberitahu apa perbedaan diantara ketiga command tersebut dan kapan kita menggunakannya.
 Diberikan contoh penggunaan command tersebut beserta output yang di hasilkannya.
