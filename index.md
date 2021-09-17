@@ -12,4 +12,5 @@ This is only for operating system courses, it's very raw website but it's honest
 
 ### Weekly top ten lists  
 - - -  
-Just go to my links.md :3
+
+[Here's the LINKS UwU](https://fikriazain.github.io/os212/LINKS/)  
