@@ -12,4 +12,4 @@ This is only for operating system courses, it's very raw website but it's honest
 
 ### Weekly top ten lists  
 - - -  
-to be announce...
+Just go to my links.md :3
