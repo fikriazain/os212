@@ -32,3 +32,6 @@ Link ini sangat berguna untuk salah satu materi yang akan keluar di kuis besok, 
 
 7. [C Languange Tutorial](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)  
 Saya mempelajari bahasa C pada link berikut ini. Seperti saya mempelajari Awk, di tutorialspoint sangat lengkap dalam membahas bahasa pemrograman ini. Pada pemeberian materi di link ini, mudah untuk dimengerti dan ada contoh program beserta outputnya.
+
+8. [C Languange Family Friendly](https://www.petanikode.com/tutorial/c/)  
+Pada link ini mempelajari bahasa C sangat lebih mudah karena menggunakan bahasa Indonesia. Website yang sangat menarik membuat kita menjadi lebih bersamangat untuk mempelajari bahasa C. Diberikan juga contoh command dan output untuk mempermudah kita membayangkan command tersebut bekerja
