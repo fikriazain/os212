@@ -4,6 +4,7 @@ permalink: /LINKS/
 
 # LINKS
 
+## Week01
 1. [Awk Tutorialspoint](https://www.tutorialspoint.com/awk/index.htm)  
 Link ini tempat saya belajar bagaimana cara saya menggunakan awk.  
 Menurut saya link ini bagus karena diberikan contoh output beserta command yang digunakan.  
@@ -30,6 +31,8 @@ Link ini yang membuat github page saya menjadi lebih bagus. Pada link ini terdap
 6. [SORT Command Linux](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/)  
 Link ini sangat berguna untuk salah satu materi yang akan keluar di kuis besok, yaitu command SORT. Pada link ini dijelaskan bagaimana commandnya beserta output yang dikeluarkan. Penjelasannya sangat jelas dan mudah untuk dipahami walaupun bahasa inggris.
 
+
+## Week02
 7. [C Languange Tutorial](https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm)  
 Saya mempelajari bahasa C pada link berikut ini. Seperti saya mempelajari Awk, di tutorialspoint sangat lengkap dalam membahas bahasa pemrograman ini. Pada pemeberian materi di link ini, mudah untuk dimengerti dan ada contoh program beserta outputnya.
 
