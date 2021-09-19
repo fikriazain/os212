@@ -6,6 +6,7 @@ This is only for operating system courses, it's very raw website but it's honest
 - - -  
 [My Repository](https://github.com/fikriazain/os212)  
 [My Log](https://fikriazain.github.io/os212/TXT/mylog.txt)  
+[My Rank](https://fikriazain.github.io/os212/TXT/myrank.txt)  
 [My Website :3](https://azyain.herokuapp.com/)
 
 👆👆👆 Feel free to look  
