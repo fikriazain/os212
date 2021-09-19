@@ -38,3 +38,6 @@ Saya mempelajari bahasa C pada link berikut ini. Seperti saya mempelajari Awk, d
 
 8. [C Languange Family Friendly](https://www.petanikode.com/tutorial/c/)  
 Pada link ini mempelajari bahasa C sangat lebih mudah karena menggunakan bahasa Indonesia. Website yang sangat menarik membuat kita menjadi lebih bersamangat untuk mempelajari bahasa C. Diberikan juga contoh command dan output untuk mempermudah kita membayangkan command tersebut bekerja
+
+9. [Open Source Cybersecurity Tools](https://www.datashieldprotect.com/blog/free-open-source-software-cybersecurity)  
+Link ini memberikan berbagai macam tools yang digunakan dalam cyberecurity pada linux. Diberikan penjelasan tentang kegunaan dari setiap tools cybersecuritynya. 
