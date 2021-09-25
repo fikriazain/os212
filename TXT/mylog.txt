@@ -57,3 +57,17 @@ ZCZC W02 60 L26 C-language
 ZCZC W02 40 L64 Helping OS related problem to a friend.
 ZCZC w02 05 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 30 L07 Demo related
+
+ZCZC W03 20 L05 Quiz W02
+ZCZC W03 110 L02 ZOOM meetings related (OS first meeting W03)
+ZCZC W03 20 L02 Zoom Meetings related (OS second meeting W03)
+ZCZC W03 188 L11 Assignment #01
+ZCZC W03 70 L12 Assignment #02
+ZCZC W03 30 L13 Assignment #03
+ZCZC W03 15 L14 Assignment #04
+ZCZC W03 30 L15 Assignment #05
+ZCZC W03 05 L17 Assignment #07
+ZCZC W03 10 L18 Assignment #08
+ZCZC W03 45 L07 Demo related
+ZCZC W03 80 L26 C-languange
+ZCZC W03 50 L64 Helping OS related problem to a friend.
