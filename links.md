@@ -43,7 +43,7 @@ Pada link ini mempelajari bahasa C sangat lebih mudah karena menggunakan bahasa 
 Link ini memberikan berbagai macam tools yang digunakan dalam cyberecurity pada linux. Diberikan penjelasan tentang kegunaan dari setiap tools cybersecuritynya. 
 
 
-##Week03
+## Week03
 10. [Basic File Management Commands](https://www.tecmint.com/linux-file-management-commands/)
 Pada link ini saya belajar tentang me-manage file pada sistem operasi linux. Penjelasannya sangat mmudah dimengerti dan disediakan command beserta contohnya.
 
