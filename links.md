@@ -41,3 +41,12 @@ Pada link ini mempelajari bahasa C sangat lebih mudah karena menggunakan bahasa 
 
 9. [Open Source Cybersecurity Tools](https://www.datashieldprotect.com/blog/free-open-source-software-cybersecurity)  
 Link ini memberikan berbagai macam tools yang digunakan dalam cyberecurity pada linux. Diberikan penjelasan tentang kegunaan dari setiap tools cybersecuritynya. 
+
+
+##Week03
+10. [Basic File Management Commands](https://www.tecmint.com/linux-file-management-commands/)
+Pada link ini saya belajar tentang me-manage file pada sistem operasi linux. Penjelasannya sangat mmudah dimengerti dan disediakan command beserta contohnya.
+
+11. [GeeksForGeeks Linux File Management](https://www.geeksforgeeks.org/file-management-in-linux/)
+Pada link ini hanya ingin menambahkan untuk website GeeksForGeeks. Website ini menurut saya sangat umum dan mayoritas saya mencari permsalahan tentang ilmu komputer disini.
+
