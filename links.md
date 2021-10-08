@@ -57,3 +57,11 @@ Pada link ini saya mempelajari cara untuk menggunakan berbagai method yang bergu
 
 13. [Allocating Memory](https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch08.html)
 Pada link ini saya dapat lebih tau tentang alokasi memory. Tapi walau dalam bahasa inggtis, saya masih menikmati untuk membacanya.
+
+
+## Week05
+14. [Linux Virtual Memory](https://www.thegeekstuff.com/2012/02/linux-memory-management/)  
+Pada link ini saya mempelajari tentang virtual memory beserta demand paging. Walau dalam bahasa inggris, saya masih mudah untuk memahami materi yang diberikan pada link ini.
+
+15. [Linux Virtual Memory Algorithm](http://www.science.unitn.it/~fiorella/guidelinux/tlk/node33.html)  
+Pada link ini saya mempelajari tentang algoritma yang digunakan dalam melakukan virtual memory. Link ini tidak terlalu saya rekomen karena tampilan yang terbilang kurang menarik dan terlalu kaku untuk dijadikan bahan bacaan materi OS.
