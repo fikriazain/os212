@@ -1,3 +1,7 @@
+---
+permalink: /TIPS/
+---
+
 # Here's the tips for someone wants to pass OS next semester
 
 1. Do not update your current OS if you taken an OS course.  
