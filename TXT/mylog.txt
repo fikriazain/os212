@@ -88,3 +88,18 @@ ZCZC W04 20 L17 Assignment #07
 ZCZC W04 10 L18 Assignment #08
 ZCZC W04 05 L19 Assignment #09
 ZCZC W04 20 L07 Demo related (Try demo)
+
+ZCZC W05 20 L05 Quiz W04
+ZCZC W05 110 L02 Zoom meetings related (OS first meeting W05)
+ZCZC W05 40 L02 Zoom meetings related (OS second meeting W05)
+ZCZC W05 100 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 20 L14 Assignment #04
+ZCZC W05 10 L15 Assignment #05
+ZCZC W05 10 L16 Assignment #06
+ZCZC W05 05 L17 Assignment #07
+ZCZC W05 05 L18 Assignment #08
+ZCZC W05 05 L19 Assignment #09
+ZCZC W05 25 L07 Demo related (Try demo)
+ZCZC W05 10 L01 SCELE/Discord related (Scele forum Discussion)
