@@ -65,3 +65,8 @@ Pada link ini saya mempelajari tentang virtual memory beserta demand paging. Wal
 
 15. [Linux Virtual Memory Algorithm](http://www.science.unitn.it/~fiorella/guidelinux/tlk/node33.html)  
 Pada link ini saya mempelajari tentang algoritma yang digunakan dalam melakukan virtual memory. Link ini tidak terlalu saya rekomen karena tampilan yang terbilang kurang menarik dan terlalu kaku untuk dijadikan bahan bacaan materi OS.
+
+
+## Week06 
+16. [How to Running Processes in Linux](https://www.hostinger.com/tutorials/vps/how-to-manage-processes-in-linux-using-command-line)  
+Pada link ini saya mempelajari tentang bagaimana menjalankan suatu proses yang ada pada os Linux. Untuk web yang lumayan memanjakan mata, penjelasannya pun juga mudah untuk dimengerti. Dijelaskan juga command yang berguna untuk Running Processes.
