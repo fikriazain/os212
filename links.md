@@ -70,3 +70,10 @@ Pada link ini saya mempelajari tentang algoritma yang digunakan dalam melakukan 
 ## Week06 
 16. [How to Running Processes in Linux](https://www.hostinger.com/tutorials/vps/how-to-manage-processes-in-linux-using-command-line)  
 Pada link ini saya mempelajari tentang bagaimana menjalankan suatu proses yang ada pada os Linux. Untuk web yang lumayan memanjakan mata, penjelasannya pun juga mudah untuk dimengerti. Dijelaskan juga command yang berguna untuk Running Processes.
+
+## Week07
+17. [Process Synchronization](https://www.tutorialspoint.com/process-synchronization-in-linux)
+Link ini menjelaskan tentang proses sinkronisasi pada linux. Dijelaskan secara visualisasi dari prosesnya juga jadi lebih paham.
+18. [Semaphore in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
+Link ini menjelaskan tentang semaphore pada proses sinkronisasi. Dijelaskan juga potongan kode yang didemonstrasikan.
+
