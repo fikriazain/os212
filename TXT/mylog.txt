@@ -131,3 +131,18 @@ ZCZC W07 10 L17 Assignment #07
 ZCZC W07 05 L18 Assignment #08
 ZCZC W07 05 L19 Assignment #09
 ZCZC W07 40 L07 Demo related (Try demo)
+
+ZCZC W08 20 L05 Quiz W07
+ZCZC W08 110 L02 Zoom meetings related (OS first meeting W08)
+ZCZC W08 40 L02 Zoom meetings related (OS second meeting W08)
+ZCZC W08 65 L11 Assignment #01
+ZCZC W08 40 L12 Assignment #02
+ZCZC W08 30 L13 Assignment #03
+ZCZC W08 30 L14 Assignment #04
+ZCZC W08 45 L15 Assignment #05
+ZCZC W08 10 L16 Assignment #06
+ZCZC W08 10 L17 Assignment #07
+ZCZC W08 05 L18 Assignment #08
+ZCZC W08 05 L19 Assignment #09
+ZCZC W08 05 L20 Assignment #10
+ZCZC W08 40 L07 Demo related (Try demo)

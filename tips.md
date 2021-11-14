@@ -16,5 +16,6 @@ permalink: /TIPS/
 10. Read carefully, work carefully.  
 11. If you are not deadliner, please don't forget to git push or you gonna end up like me :")
 12. Help others :3
+13. Build Linux from scratch cannot be done only one day
 
 Hope you have a nice DAY :D

@@ -77,3 +77,7 @@ Link ini menjelaskan tentang proses sinkronisasi pada linux. Dijelaskan secara v
 18. [Semaphore in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)
 Link ini menjelaskan tentang semaphore pada proses sinkronisasi. Dijelaskan juga potongan kode yang didemonstrasikan.
 
+
+##Week08
+19. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)
+Links ini menjelaskan scheduling yang ada pada CPU komputer. Pada link ini sangat jelas bagaimana penjelasan tentang CPU scheduling dan waiting state segala macam
